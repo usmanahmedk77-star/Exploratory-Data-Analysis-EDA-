@@ -7,7 +7,7 @@ rule-based customer segmentation and a set of business recommendations.
 
 **Program:** AI Lab 99 Internship Program 2026 — Machine Learning Track
 **Module:** Module 4 — Exploratory Data Analysis (`ML-M04`)
-**Intern:** Jawad Ahmad
+**Intern:** Usman Khan
 
 ## Dataset
 
