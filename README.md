@@ -1,7 +1,7 @@
 # Exploratory-Data-Analysis-EDA-
 Exploratory Data Analysis on a customer marketing dataset to understand customer demographics, spending behavior, purchasing channels, website engagement, campaign performance, and complaint patterns — producing a rule-based customer segmentation and a set of business recommendations.
 
-Program: AI Lab 99 Internship Program 2026 — Machine Learning Track Module: Module 4 — Exploratory Data Analysis (ML-M04) Intern: Jawad Ahmad
+Program: AI Lab 99 Internship Program 2026 — Machine Learning Track Module: Module 4 — Exploratory Data Analysis (ML-M04) Intern: Usman Khan
 
 # Dataset
 
